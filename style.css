@@ -54,7 +54,7 @@ background-color: white;
 	height: 800px;
 }
 
-img {
+.storyimage {
 width: 300px;
 float: left;
 margin-right: 20px;
@@ -89,6 +89,18 @@ padding: 0px 20px 20px 20px;
 text-align: justify;
 }
 
+.linkstyle {
+text-align: center;
+}
+
+/*Style from here down is for the "Images" Page.
+*/
+.imagegallery {
+	width: 100px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 4px;
+}
 
 
 
