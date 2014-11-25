@@ -1,0 +1,55 @@
+.headline_color {
+color: green;
+}
+
+.font_of_headlines {
+font-family:georgia;
+text-align: center
+}
+
+.columnleft {
+background-color: #D1E0B2;
+float:left;
+width:50%;
+}
+
+.columnright {
+background-color: green;
+float:right;
+width:50%;
+}
+
+.story {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.header {
+width:50em;
+margin:0 auto;
+text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.fb{
+position:fixed;
+background-color: white;
+
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 900px;
+}
+
+img {
+width: 300px;
+float: left;
+margin-right: 20px;
+margin-bottom: 5px;
+;
+}
